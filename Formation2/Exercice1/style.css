@@ -1,0 +1,24 @@
+.souligne
+{
+    text-decoration: underline;
+    font-weight:bold;
+}
+.background
+{
+    background-color: rgb(14,44,48);
+    color:rgb(150,150,150)
+}
+.itallique
+{
+    font-style:italic;
+}
+
+.background1
+{
+    background-color: rgb(59, 74, 77);
+}
+.bordure
+{
+    border: 3px solid rgb(200,200,200);
+    border-radius : 5px;
+}
